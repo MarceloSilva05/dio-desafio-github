@@ -24,7 +24,7 @@ As configurações realizadas através dos comandos abaixo serão incluídas no 
 
 
 Setar usuário
-git config --global user.name "Cheila Machado"
+git config --global user.name "MarceloSilva05"
 
 Setar email
 git config --global user.email email@email.com
@@ -155,7 +155,7 @@ git remote
 git remote -v
 
 Vincular repositório local com um repositório remoto
-git remote add origin git@github.com:cheilamachado/git.git
+git remote add origin git@github.com:MarceloSilva05/git.git
 
 Exibir informações dos repositórios remotos
 git remote show origin
@@ -183,7 +183,7 @@ Buscar as alterações, mas não aplica-las no branch atual
 git fetch
 
 Clonar um repositório remoto já existente
-git clone git@github.com:cheilamachado/git.git
+git clone git@github.com:MarceloSilva05/git.git
 
 Tags
 
